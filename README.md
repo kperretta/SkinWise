@@ -12,9 +12,7 @@ INPUT DEL MODELLO:
 
 OUTPUT ATTESO:
 
-Un’etichetta binaria che indica l’esito della compatibilità:
-1: il prodotto risulta adeguato al profilo dell’utente;
-0: il prodotto non è adeguato al profilo dell’utente.
+Un’etichetta binaria che indica l’esito della compatibilità: (1) il prodotto risulta adeguato al profilo dell’utente o (0) il prodotto non è adeguato al profilo dell’utente.
 
 Il progetto consiste nello sviluppo di un sistema di classificazione supervisionata.
 L’obiettivo è quello di generalizzare dai dati di addestramento per fornire previsioni
