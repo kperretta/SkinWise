@@ -11,6 +11,7 @@ INPUT DEL MODELLO:
 - caratteristiche del prodotto cosmetico.
 
 OUTPUT ATTESO:
+
 Un’etichetta binaria che indica l’esito della compatibilità:
 1: il prodotto risulta adeguato al profilo dell’utente;
 0: il prodotto non è adeguato al profilo dell’utente.
